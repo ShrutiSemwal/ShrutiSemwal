@@ -1,6 +1,6 @@
 ### Hi there! <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f636_200d_1f32b_fe0f/512.gif" alt="😶" width="32" height="32">
 
-I'm **Shruti**, a software developer based in Dehradun, Uttarakhand, India.
+I'm [**Shruti**](https://shruti-drab.vercel.app/), a software developer based in Dehradun, Uttarakhand, India.
 
 I am passionate about building impactful solutions at the intersection of Web Development and Artificial Intelligence/Machine Learning. I love creating modern, responsive web apps using React, Next.js, and Firebase. I'm also experienced in applying deep learning techniques, with a focus on sustainability and real-world applications. Currently exploring ways to integrate AI with clean, user-centric web platforms.
 
