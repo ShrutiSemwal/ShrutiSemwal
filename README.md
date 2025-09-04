@@ -2,7 +2,7 @@
 
 I'm [**Shruti**](https://shruti-drab.vercel.app/), a software developer based in Dehradun, Uttarakhand, India.
 
-I am passionate about building impactful solutions at the intersection of Web Development and Artificial Intelligence/Machine Learning. I love creating modern, responsive web apps using React, Next.js, and Firebase. I'm also experienced in applying deep learning techniques, with a focus on [sustainability](https://github.com/ShrutiSemwal/MTech.-Dissertation-UNet-with-Attention-Mechanism) and real-world applications. Currently exploring ways to integrate AI with clean, user-centric web platforms.
+I am passionate about building impactful solutions at the intersection of Web Development and Artificial Intelligence/Machine Learning. I love creating modern, responsive web apps using React, Next.js, and Firebase. I'm also experienced in applying deep learning techniques, with a focus on [sustainability](https://github.com/ShrutiSemwal/MTech.-Dissertation-UNet-with-Attention-Mechanism) and [real-world applications](https://ieeexplore.ieee.org/abstract/document/11134271). Currently exploring ways to integrate AI with clean, user-centric web platforms.
 
 <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.gif" alt="🌱" width="32" height="32"> Beyond the technical realm, I'm a nemophilist who loves spending time in nature. I enjoy book reading, [writing stuff](https://medium.com/@semwalshruti450), learning about new things, clicking [landscape photos](https://vsco.co/shrutisemwal/gallery), and editing them for fun.
 
